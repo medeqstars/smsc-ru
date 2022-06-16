@@ -14,7 +14,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "guzzlehttp/guzzle": "^7.0.1",
-        "illuminate/queue": "~5|~6|~7|~8|~9",
+        "illuminate/queue": "^8.17|^9.0",
         "illuminate/notifications": "~5|~6|~7|~8|~9",
         "illuminate/support": "~5|~6|~7|~8|~9"
     },
